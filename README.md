@@ -1,1 +1,1 @@
-![alt text](/res/ascii_dragon_anim.gif "ascii_dragon")
+![alt text](https://github.com/lintopher0315/lintopher0315/blob/master/res/ascii_dragon_anim.gif "ascii_dragon")
