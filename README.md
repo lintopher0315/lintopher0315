@@ -1,1 +1,1 @@
-![alt text](https://i.imgur.com/ABdj6d7.png "ascii_dragon")
+![alt text](/res/ascii_dragon_anim.gif "ascii_dragon")
